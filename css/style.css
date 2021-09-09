@@ -33,6 +33,13 @@ h1 {
     margin: 40px 0 40px 0;
 }
 
+a:hover, a:focus {
+    color: #ababab;
+    text-decoration: none;
+    outline: 0 none;
+    font-weight: 800;
+  }
+
 .container {
     margin: 0 auto;
     width: 70%;
@@ -107,7 +114,7 @@ h1 {
 }
 
 .quadrado-meio {
-    background-color: crimson;
+    background-color: #6B705C;
 }
 
 .coluna-3 {
@@ -125,7 +132,7 @@ h1 {
 }
 
 .quadrado-center {
-    background-color: rgb(232, 164, 164);
+    background-color: #B7B7A4;
 }
 
 .quadrado-left {
